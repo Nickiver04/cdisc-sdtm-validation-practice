@@ -67,7 +67,7 @@ reports/error-analysis.xlsx
 ## What I Learned
 
 **SDTM Structure**
-- Data is organized into domains — each a separate .xpt file
+- Data is organized into domains - each a separate .xpt file
 - Variables follow a naming convention: domain prefix + topic + suffix
 - USUBJID links every subject's data across all domains
 
@@ -75,7 +75,7 @@ reports/error-analysis.xlsx
 - Informed consent date must always precede first dose date
 - Serious AEs must have at least one seriousness criterion documented
 - Duration variables must follow ISO 8601 format (P142D not 142)
-- Cross-domain consistency is validated — AE and DM death data must match
+- Cross-domain consistency is validated - AE and DM death data must match
 - Dataset files must be named exactly after their 2-letter domain code
 
 **CDASH vs SDTM**
@@ -86,10 +86,10 @@ reports/error-analysis.xlsx
 
 
 ## References
-- CDISC SDTM Implementation Guide — cdisc.org
-- Pinnacle 21 Community — pinnacle21.certara.net
-- CDISC Pediatrics User Guide v1.0 — jwmdrc.org
-- FDA Study Data Standards — fda.gov
+- CDISC SDTM Implementation Guide -cdisc.org
+- Pinnacle 21 Community - pinnacle21.certara.net
+- CDISC Pediatrics User Guide v1.0 - jwmdrc.org
+- FDA Study Data Standards - fda.gov
 
 
 ## Author
